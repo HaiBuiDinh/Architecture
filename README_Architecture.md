@@ -1,4 +1,4 @@
-# Misa App Follow Clean Architecture
+# App Follow Clean Architecture
 
 ## 1. Author
 
